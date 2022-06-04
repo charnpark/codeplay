@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+                    # -*- coding: utf-8 -*-
 import pygame
 pygame.init()
 screen_width = 480 #가로
