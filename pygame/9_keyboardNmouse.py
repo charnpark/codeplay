@@ -118,3 +118,4 @@ while running:
 
 # 종료
 pygame.quit()
+앙
